@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B7A30E1-0AA9-4567-B191-58C718ECCC8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI_Quanlydetai</RootNamespace>
+    <AssemblyName>GUI_Quanlydetai</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v14.2.UI, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.2.UI, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v14.2.Wizard, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v14.2.Core, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v14.2.Extensions, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v14.2, Version=14.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Sqlhelper">
+      <HintPath>..\..\GUI_Quanlydetai\Sqlhelper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add.cs" />
+    <Compile Include="frm_DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DangNhap.Designer.cs">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN.Designer.cs">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaiKhoan.Designer.cs">
+      <DependentUpon>TaiKhoan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_DangNhap.resx">
+      <DependentUpon>frm_DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="MAIN.resx">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TaiKhoan.resx">
+      <DependentUpon>TaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-9-Delete-file.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DxpTaskSync_dll_03_13.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageres_dll_207_18.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shell32_dll_279_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shell32_dll_280_14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_new.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_new_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diamond Icon 60.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_delete %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-escribir-1_remix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\240_F_30035034_jUuq0wR3g2M67YZ5KRJ4HoKp0UcJhO6G.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22231099-Report-statistics-icon-glossy-blue-reflected-square-button-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31538185-Report-statistics-icon-green-square-button-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\490589408.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\490608936.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\36264449-Checklist-icon-glassy-green-button-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6533066-Glossy-button-with-a-tick-isolated-over-white-background-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5687673-Add-user-icon-stylized-person-with-plus-sign-Stock-Photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\businessman-user-close-up-add-button-outline_318-39498.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group-add-button-with-half-body-shape_318-32346.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-illustration-67738881-black-square-button-with-building-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-illustration-69869973-black-square-button-with-building-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-illustration-72118691-black-square-button-with-cityscape-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20855.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\904982829-Bank-Building-Icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25694.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Think Green Icon 10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1217861754507811278mightyman_Button_Icons_3.svg.med.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\delete222.png" />
+    <None Include="Resources\add1.png" />
+    <Content Include="Resources\folder-icon-512x512.png" />
+    <Content Include="Resources\generic-folder-yellow.png" />
+    <None Include="Resources\xuatkho.png" />
+    <None Include="Resources\remove.png" />
+    <None Include="Resources\password.png" />
+    <None Include="Resources\Professor-icon %281%29.png" />
+    <None Include="Resources\Student-3-icon %281%29.png" />
+    <None Include="Resources\Teacher-icon.png" />
+    <None Include="Resources\home-icon.png" />
+    <None Include="Resources\Logout-icon.png" />
+    <None Include="Resources\nhapkho.png" />
+    <Content Include="Resources\normal_folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{f56b86b9-392b-45b0-a8a5-c3a0c903ccd8}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{a98b24df-9751-4749-8856-7c8539b37957}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{69f159be-3ccd-4816-b388-05cc36ff28b8}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,111 @@
+C:\Users\holy\Desktop\QLDT\DAO\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\QLDT\DAO\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\QLDT\DAO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\QLDT\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\QLDT\DAO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\QLDT\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\QLDT\DAO\obj\Debug\DAO.dll
+C:\Users\holy\Desktop\QLDT\DAO\obj\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\GHEP\DAO\obj\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP\DAO\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP\DAO\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP\DAO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\GHEP\DAO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP\DAO\obj\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\DAO\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\DAO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP - Copy\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\GHEP - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DAO\obj\Debug\DAO.pdb
+E:\Projects\DETAIcopy\DAO\bin\Debug\DAO.dll
+E:\Projects\DETAIcopy\DAO\bin\Debug\DAO.pdb
+E:\Projects\DETAIcopy\DAO\bin\Debug\DTO.dll
+E:\Projects\DETAIcopy\DAO\bin\Debug\Sqlhelper.dll
+E:\Projects\DETAIcopy\DAO\bin\Debug\DTO.pdb
+E:\Projects\DETAIcopy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Projects\DETAIcopy\DAO\obj\Debug\DAO.dll
+E:\Projects\DETAIcopy\DAO\obj\Debug\DAO.pdb
+E:\Projects\DEMO\DAO\bin\Debug\DAO.dll
+E:\Projects\DEMO\DAO\bin\Debug\DAO.pdb
+E:\Projects\DEMO\DAO\bin\Debug\DTO.dll
+E:\Projects\DEMO\DAO\bin\Debug\Sqlhelper.dll
+E:\Projects\DEMO\DAO\bin\Debug\DTO.pdb
+E:\Projects\DEMO\DAO\obj\Debug\DAO.dll
+E:\Projects\DEMO\DAO\obj\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\obj\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DAO\obj\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\obj\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DAO\obj\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.dll
+D:\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DAO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.dll
+D:\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\Sqlhelper.dll
+D:\SQL\QUANLY_DETAI_NCKH\DAO\bin\Debug\DTO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.dll
+D:\SQL\QUANLY_DETAI_NCKH\DAO\obj\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\bin\Debug\Sqlhelper.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\obj\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DAO\obj\Debug\DAO.pdb
+D:\SQL\QUANLYNHANSU\DAO\bin\Debug\DAO.dll
+D:\SQL\QUANLYNHANSU\DAO\bin\Debug\DAO.pdb
+D:\SQL\QUANLYNHANSU\DAO\bin\Debug\DTO.dll
+D:\SQL\QUANLYNHANSU\DAO\bin\Debug\Sqlhelper.dll
+D:\SQL\QUANLYNHANSU\DAO\bin\Debug\DTO.pdb
+D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.dll
+D:\SQL\QUANLYNHANSU\DAO\obj\Debug\DAO.pdb
+D:\SQL\QUANLYKHO\DAO\bin\Debug\DAO.dll
+D:\SQL\QUANLYKHO\DAO\bin\Debug\DAO.pdb
+D:\SQL\QUANLYKHO\DAO\bin\Debug\DTO.dll
+D:\SQL\QUANLYKHO\DAO\bin\Debug\Sqlhelper.dll
+D:\SQL\QUANLYKHO\DAO\bin\Debug\DTO.pdb
+D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.dll
+D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.pdb

@@ -1,0 +1,56 @@
+C:\Users\holy\Desktop\QLDT\DTO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\QLDT\DTO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\QLDT\DTO\obj\Debug\DTO.dll
+C:\Users\holy\Desktop\QLDT\DTO\obj\Debug\DTO.pdb
+C:\Users\holy\Desktop\QLDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\GHEP\DTO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP\DTO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP\DTO\obj\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP\DTO\obj\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\DTO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DTO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\DTO\obj\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\DTO\obj\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DTO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DTO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DTO\obj\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.dll
+D:\SQL\QUANLY_DETAI_NCKH\DTO\bin\Debug\DTO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.dll
+D:\SQL\QUANLY_DETAI_NCKH\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+D:\SQL\QUANLYNHANSU\DTO\bin\Debug\DTO.dll
+D:\SQL\QUANLYNHANSU\DTO\bin\Debug\DTO.pdb
+D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.dll
+D:\SQL\QUANLYNHANSU\DTO\obj\Debug\DTO.pdb
+D:\SQL\QUANLYKHO\DTO\bin\Debug\DTO.dll
+D:\SQL\QUANLYKHO\DTO\bin\Debug\DTO.pdb
+D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.dll
+D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.pdb
