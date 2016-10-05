@@ -28,3 +28,6 @@ D:\SQL\QUANLYKHO\GUI_Quanlydetai\bin\Debug\DTO.pdb
 D:\GitHub\TTN_QuanLyKhotemp\QUANLYKHO\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
 D:\GitHub\TTN_QuanLyKhotemp\QUANLYKHO\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 D:\GitHub\TTN_QuanLyKhotemp\QUANLYKHO\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
