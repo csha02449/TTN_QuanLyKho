@@ -308,26 +308,12 @@ namespace GUI_Quanlydetai
         //dang sua chua xong
         private void txtMaKho_Click(object sender, EventArgs e)
         {
-            if (txtTenKho.Text != " ")
-            {
-                con=DAO_KetNoiDB.OpenConnect();
-                string s1 = txtTenKho.Text;
-                string s2 = SqlHelper.ExecuteScalar(con,"hienthitenthanhmakh",s1).ToString();
-                txtMaKho.Text = s2;
-            }
-            else txtMaKho.Text = " ";
+
         }
 
         private void txtMaHH_Click(object sender, EventArgs e)
         {
-            if (txtTenHH.Text != " ")
-            {
-                con = DAO_KetNoiDB.OpenConnect();
-                string s1 = txtTenHH.Text;
-                string s2 = SqlHelper.ExecuteScalar(con, "hienthitenthanhmahangho", s1).ToString();
-                txtMaHH.Text = s2;
-            }
-            else txtMaKho.Text = " ";
+
         }
 
         private void txtMaKH_Click(object sender, EventArgs e)
@@ -343,6 +329,11 @@ namespace GUI_Quanlydetai
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void navBarControl1_Click(object sender, EventArgs e)
         {
 
         }
