@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="DAO_DangNhap.cs" />
     <Compile Include="DAO_KetNoiDB.cs" />
+    <Compile Include="DAO_NCC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
