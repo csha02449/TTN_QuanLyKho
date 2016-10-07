@@ -127,3 +127,12 @@ D:\SQL\QUANLYKHO\BUS\bin\Debug\DTO.pdb
 D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.dll
 D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.pdb
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\BUS.dll
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\BUS.pdb
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\DAO.dll
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\DTO.dll
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\DAO.pdb
+D:\github\TTN_QuanLyKho\BUS\bin\Debug\DTO.pdb
+D:\github\TTN_QuanLyKho\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\github\TTN_QuanLyKho\BUS\obj\Debug\BUS.dll
+D:\github\TTN_QuanLyKho\BUS\obj\Debug\BUS.pdb

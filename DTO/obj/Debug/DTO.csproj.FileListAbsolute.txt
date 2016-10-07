@@ -54,3 +54,8 @@ D:\SQL\QUANLYKHO\DTO\bin\Debug\DTO.pdb
 D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.dll
 D:\SQL\QUANLYKHO\DTO\obj\Debug\DTO.pdb
+D:\github\TTN_QuanLyKho\DTO\bin\Debug\DTO.dll
+D:\github\TTN_QuanLyKho\DTO\bin\Debug\DTO.pdb
+D:\github\TTN_QuanLyKho\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\github\TTN_QuanLyKho\DTO\obj\Debug\DTO.dll
+D:\github\TTN_QuanLyKho\DTO\obj\Debug\DTO.pdb
