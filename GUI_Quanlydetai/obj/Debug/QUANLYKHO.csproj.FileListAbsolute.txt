@@ -31,3 +31,10 @@ D:\GitHub\TTN_QuanLyKhotemp\QUANLYKHO\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.
 D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\bin\Debug\GUI_Quanlydetai.exe.config
 D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe
 D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.pdb
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\QUANLYKHO.csprojResolveAssemblyReference.cache
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.frm_DangNhap.resources
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.MAIN.resources
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.Properties.Resources.resources
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.TaiKhoan.resources
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\QUANLYKHO.csproj.GenerateResource.Cache
+D:\GitHub\TTN_QuanLyKho\GUI_Quanlydetai\obj\Debug\GUI_Quanlydetai.exe.licenses
