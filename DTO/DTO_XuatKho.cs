@@ -60,8 +60,8 @@ namespace DTO
             get { return _NoiDung; }
             set { _NoiDung = value; }
         }
-        public DTO_XuatKho(string _MaKho, string _MaHH,  string _MaKH,  string _SoPX,string _SoLuong, string _NgayXuat, string _NoiDung)
-        {
+        public DTO_XuatKho(string _SoPX, string _MaKho,  string _NgayXuat,  string _MaKH,string _NoiDung, string _MaHH, string _SoLuong)
+        {                  
             this.MaKho = _MaKho;
 
             this._MaHH = _MaHH;

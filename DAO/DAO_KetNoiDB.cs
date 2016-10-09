@@ -12,7 +12,7 @@ namespace DAO
     {
         public static SqlConnection OpenConnect()
         {
-            string ChuoiKetNoi = @"Data Source=ADMINISTRATOR\SQLEXPRESS;Initial Catalog=QUANLYKHO;Integrated Security=True";
+            string ChuoiKetNoi = @"Data Source=LETHANHTUNG-PC\MSSQL;Initial Catalog=QUANLYKHO;Integrated Security=True";
             SqlConnection con = new SqlConnection(ChuoiKetNoi);
             con.Open();
             return con;
