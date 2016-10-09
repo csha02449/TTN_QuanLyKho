@@ -1,9 +1,129 @@
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\BUS.dll
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\BUS.pdb
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\DAO.dll
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\DTO.dll
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\DAO.pdb
-D:\GitHub\TTN_QuanLyKho\BUS\bin\Debug\DTO.pdb
-D:\GitHub\TTN_QuanLyKho\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-D:\GitHub\TTN_QuanLyKho\BUS\obj\Debug\BUS.dll
-D:\GitHub\TTN_QuanLyKho\BUS\obj\Debug\BUS.pdb
+C:\Users\holy\Desktop\QLDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\BUS.dll
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\BUS.pdb
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\QLDT\BUS\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\QLDT\BUS\obj\Debug\BUS.dll
+C:\Users\holy\Desktop\QLDT\BUS\obj\Debug\BUS.pdb
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\BUS.dll
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\BUS.pdb
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP\BUS\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\GHEP\BUS\obj\Debug\BUS.dll
+C:\Users\holy\Desktop\GHEP\BUS\obj\Debug\BUS.pdb
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\DAO.dll
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\Sqlhelper.dll
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\DAO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\holy\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\holy\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\holy\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\GHEP - Copy\BUS\obj\Debug\BUS.pdb
+E:\Projects\DETAIcopy\BUS\bin\Debug\BUS.dll
+E:\Projects\DETAIcopy\BUS\bin\Debug\BUS.pdb
+E:\Projects\DETAIcopy\BUS\bin\Debug\DAO.dll
+E:\Projects\DETAIcopy\BUS\bin\Debug\DTO.dll
+E:\Projects\DETAIcopy\BUS\bin\Debug\DAO.pdb
+E:\Projects\DETAIcopy\BUS\bin\Debug\DTO.pdb
+E:\Projects\DETAIcopy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Projects\DETAIcopy\BUS\obj\Debug\BUS.dll
+E:\Projects\DETAIcopy\BUS\obj\Debug\BUS.pdb
+E:\Projects\DEMO\BUS\bin\Debug\BUS.dll
+E:\Projects\DEMO\BUS\bin\Debug\BUS.pdb
+E:\Projects\DEMO\BUS\bin\Debug\DAO.dll
+E:\Projects\DEMO\BUS\bin\Debug\DTO.dll
+E:\Projects\DEMO\BUS\bin\Debug\DAO.pdb
+E:\Projects\DEMO\BUS\bin\Debug\DTO.pdb
+E:\Projects\DEMO\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Projects\DEMO\BUS\obj\Debug\BUS.dll
+E:\Projects\DEMO\BUS\obj\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\obj\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\DEMO\BUS\obj\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\DEMO - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.pdb
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.dll
+C:\Users\Khanh.Ng\Desktop\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.pdb
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.dll
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\BUS.pdb
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.dll
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.dll
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DAO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\BUS\bin\Debug\DTO.pdb
+D:\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.dll
+D:\SQL\QUANLY_DETAI_NCKH\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QUANLYNHANSU\BUS\obj\Debug\BUS.pdb
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\BUS.dll
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\BUS.pdb
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\DAO.dll
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\DTO.dll
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\DAO.pdb
+D:\SQL\QUANLYNHANSU\BUS\bin\Debug\DTO.pdb
+D:\SQL\QUANLYNHANSU\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYNHANSU\BUS\obj\Debug\BUS.dll
+D:\SQL\QUANLYNHANSU\BUS\obj\Debug\BUS.pdb
+D:\SQL\QUANLYKHO\BUS\bin\Debug\BUS.dll
+D:\SQL\QUANLYKHO\BUS\bin\Debug\BUS.pdb
+D:\SQL\QUANLYKHO\BUS\bin\Debug\DAO.dll
+D:\SQL\QUANLYKHO\BUS\bin\Debug\DTO.dll
+D:\SQL\QUANLYKHO\BUS\bin\Debug\DAO.pdb
+D:\SQL\QUANLYKHO\BUS\bin\Debug\DTO.pdb
+D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.dll
+D:\SQL\QUANLYKHO\BUS\obj\Debug\BUS.pdb

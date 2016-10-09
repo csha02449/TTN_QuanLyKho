@@ -346,11 +346,6 @@ namespace GUI_Quanlydetai
         {
 
         }
-
-        private void navBarControl1_Click(object sender, EventArgs e)
-        {
-
-        }
         //
 
     }
