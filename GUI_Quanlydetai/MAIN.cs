@@ -287,5 +287,10 @@ namespace GUI_Quanlydetai
            // }
            // else MessageBox.Show("Ban khong co quyen nay!!!");
         }
+
+        private void barButtonItem44_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Help.ShowHelp(this, "HelpKho.chm");
+        }
     }
 }
