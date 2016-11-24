@@ -109,3 +109,12 @@ D:\SQL\QUANLYKHO\DAO\bin\Debug\DTO.pdb
 D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.dll
 D:\SQL\QUANLYKHO\DAO\obj\Debug\DAO.pdb
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\DAO.dll
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\DAO.pdb
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\DTO.dll
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\Sqlhelper.dll
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\DTO.pdb
+D:\GitHub\TTN_QuanLyKho\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GitHub\TTN_QuanLyKho\DAO\obj\Debug\DAO.dll
+D:\GitHub\TTN_QuanLyKho\DAO\obj\Debug\DAO.pdb
+D:\GitHub\TTN_QuanLyKho\DAO\bin\Debug\DAO.dll.config

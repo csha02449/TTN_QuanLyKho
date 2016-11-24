@@ -202,7 +202,7 @@ namespace GUI_Quanlydetai
         {
             try
             {
-                DTO_NhapKho sv = new DTO_NhapKho(txtSoPN.Text, txtMaKho.Text, txtNgayNhap.Text, txtMaNCC.Text, txtNoiDung.Text, txtMaHH.Text, txtSoLuongHH.Text);
+                DTO_NhapKho sv = new DTO_NhapKho(txtMaKho.Text, txtMaHH.Text, txtMaNCC.Text, txtSoPN.Text, txtSoLuongHH.Text, txtNgayNhap.Text, txtNoiDung.Text);
 
                 BUS_NhapKho.Them_nhapkho(sv);
                 DialogResult dr = MessageBox.Show("Them thanh Cong", "Thông Báo", MessageBoxButtons.OK);
@@ -224,7 +224,7 @@ namespace GUI_Quanlydetai
         {
             try
             {
-                DTO_NhapKho sv = new DTO_NhapKho(txtSoPN.Text, txtMaKho.Text, txtNgayNhap.Text, txtMaNCC.Text, txtNoiDung.Text, txtMaHH.Text, txtSoLuongHH.Text);
+                DTO_NhapKho sv = new DTO_NhapKho(txtMaKho.Text, txtMaHH.Text, txtMaNCC.Text, txtSoPN.Text, txtSoLuongHH.Text, txtNgayNhap.Text, txtNoiDung.Text);
                 BUS_NhapKho.Sua_nhapkho(sv);
                 DialogResult dr = MessageBox.Show("Sua thanh Cong", "Thông Báo", MessageBoxButtons.OK);
                 loaddata();
@@ -353,6 +353,11 @@ namespace GUI_Quanlydetai
                 txtMaNCC.Text = s2;
             }
             else txtMaKho.Text = " ";
+        }
+
+        private void grdGiangVien_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -112,6 +112,7 @@
             this.grdGiangVien.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView2,
             this.gridView1});
+            this.grdGiangVien.Click += new System.EventHandler(this.grdGiangVien_Click);
             // 
             // gridView2
             // 
